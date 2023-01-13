@@ -11,4 +11,4 @@ client = Client(api_key, api_secret, testnet=True)
 
 # client.ping()
 
-print(client.get_all_orders(symbol='BNBBTC', limit=10))
+print(client.get_all_orders())
