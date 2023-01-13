@@ -1,0 +1,2 @@
+API_KEY="ukNzoDgKk6PvOcVzEfB4CMgL2tcssXkWsQlouLhIkmxmYEq296Wxut24yX3z7IMk"
+SECRET_KEY="Qgpy8WRoy8EzlwnfhMzQoUNJqcrxdp1F0H9fezCdqyckRMqRXNXnH9AGAeAZ5b79"
